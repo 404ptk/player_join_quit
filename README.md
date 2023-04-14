@@ -1,4 +1,5 @@
 Player join:
+
     package p.jaro.firstplugin.Listeners;
 
     import org.bukkit.Bukkit;
@@ -15,6 +16,7 @@ Player join:
         }
     }
 Player quit:
+
     package p.jaro.firstplugin.Listeners;
 
     import org.bukkit.Bukkit;
